@@ -2,9 +2,13 @@
 This is a collections of projects I decided to undertake. Most of these are of the Data Science variety (cleaning data, machine learning, etc.). The following abbreviations are meant to help the reader find the projects based on the interest they desire to find:
 
 a) Data Cleaning (DC)
+
 b) Machine Learning (ML)
+
 c) Data Visualization (DV)
+
 d) Database (DB)
+
 e) Statistics (S)
 
 The projects contain on this repository are the following:
