@@ -11,7 +11,7 @@ d) Database (DB)
 
 e) Statistics (S)
 
-The projects contain on this repository are the following:
+The projects contained on this repository are the following:
 
 1) Titanic (DC + ML + DV): this is a project on the Titanic Dataset. The purpose of the project is to use ML techniques to predict wheather a passenger would die or not, based on their characteristics.
 2) dcleaning (DC + DB): this a project on a Academy Awards dataset. The purpose is to clean the data, normalize it and add it to SQLite DB.
